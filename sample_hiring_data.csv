@@ -1,0 +1,301 @@
+Candidate_ID,Gender,Department,Years_Experience,Hired
+SYN0001,Non-binary / Prefer not to say,Analytics,0,No
+SYN0002,Women,Operations,2,No
+SYN0003,Non-binary / Prefer not to say,Analytics,9,Yes
+SYN0004,Women,Analytics,3,Yes
+SYN0005,Non-binary / Prefer not to say,Analytics,8,Yes
+SYN0006,Non-binary / Prefer not to say,Marketing,3,No
+SYN0007,Men,Analytics,12,Yes
+SYN0008,Non-binary / Prefer not to say,Marketing,5,Yes
+SYN0009,Women,HR,1,Yes
+SYN0010,Women,HR,5,No
+SYN0011,Women,Marketing,8,Yes
+SYN0012,Men,Analytics,8,Yes
+SYN0013,Non-binary / Prefer not to say,HR,9,Yes
+SYN0014,Women,Analytics,10,Yes
+SYN0015,Men,Analytics,3,No
+SYN0016,Men,HR,7,Yes
+SYN0017,Men,Operations,5,Yes
+SYN0018,Non-binary / Prefer not to say,HR,11,No
+SYN0019,Non-binary / Prefer not to say,Analytics,9,No
+SYN0020,Non-binary / Prefer not to say,Operations,2,No
+SYN0021,Men,Operations,10,Yes
+SYN0022,Women,Operations,0,No
+SYN0023,Men,HR,1,Yes
+SYN0024,Non-binary / Prefer not to say,HR,3,No
+SYN0025,Men,Marketing,2,Yes
+SYN0026,Women,HR,11,No
+SYN0027,Non-binary / Prefer not to say,Marketing,5,Yes
+SYN0028,Women,Marketing,1,No
+SYN0029,Women,Operations,10,Yes
+SYN0030,Non-binary / Prefer not to say,Marketing,9,Yes
+SYN0031,Men,Marketing,8,Yes
+SYN0032,Non-binary / Prefer not to say,Analytics,10,No
+SYN0033,Non-binary / Prefer not to say,HR,12,No
+SYN0034,Women,HR,6,Yes
+SYN0035,Women,HR,8,No
+SYN0036,Non-binary / Prefer not to say,Analytics,10,Yes
+SYN0037,Non-binary / Prefer not to say,Operations,2,No
+SYN0038,Women,Analytics,9,Yes
+SYN0039,Women,Analytics,5,No
+SYN0040,Men,Operations,0,Yes
+SYN0041,Non-binary / Prefer not to say,Analytics,1,No
+SYN0042,Women,Operations,2,No
+SYN0043,Non-binary / Prefer not to say,Operations,4,No
+SYN0044,Non-binary / Prefer not to say,Marketing,3,No
+SYN0045,Non-binary / Prefer not to say,Operations,11,Yes
+SYN0046,Non-binary / Prefer not to say,HR,7,No
+SYN0047,Men,Analytics,3,Yes
+SYN0048,Men,Analytics,9,Yes
+SYN0049,Non-binary / Prefer not to say,Operations,0,Yes
+SYN0050,Non-binary / Prefer not to say,Analytics,3,Yes
+SYN0051,Women,HR,1,No
+SYN0052,Men,Marketing,3,Yes
+SYN0053,Non-binary / Prefer not to say,Marketing,3,No
+SYN0054,Men,Operations,1,Yes
+SYN0055,Men,HR,6,Yes
+SYN0056,Non-binary / Prefer not to say,Analytics,10,No
+SYN0057,Non-binary / Prefer not to say,Analytics,0,No
+SYN0058,Men,Analytics,3,Yes
+SYN0059,Non-binary / Prefer not to say,Marketing,2,No
+SYN0060,Men,Marketing,3,No
+SYN0061,Women,Marketing,12,No
+SYN0062,Non-binary / Prefer not to say,Analytics,0,No
+SYN0063,Non-binary / Prefer not to say,Analytics,1,No
+SYN0064,Women,Operations,6,No
+SYN0065,Women,Marketing,0,Yes
+SYN0066,Women,Marketing,4,No
+SYN0067,Men,HR,6,No
+SYN0068,Non-binary / Prefer not to say,Marketing,2,Yes
+SYN0069,Women,Analytics,9,No
+SYN0070,Women,HR,0,Yes
+SYN0071,Men,Operations,0,No
+SYN0072,Women,Operations,1,No
+SYN0073,Non-binary / Prefer not to say,Operations,6,Yes
+SYN0074,Non-binary / Prefer not to say,Operations,9,No
+SYN0075,Non-binary / Prefer not to say,Analytics,6,No
+SYN0076,Non-binary / Prefer not to say,HR,4,Yes
+SYN0077,Non-binary / Prefer not to say,HR,3,Yes
+SYN0078,Women,HR,7,Yes
+SYN0079,Women,Analytics,7,No
+SYN0080,Non-binary / Prefer not to say,Analytics,1,No
+SYN0081,Non-binary / Prefer not to say,HR,2,No
+SYN0082,Women,Operations,5,Yes
+SYN0083,Men,HR,9,No
+SYN0084,Non-binary / Prefer not to say,Analytics,10,No
+SYN0085,Men,Analytics,2,Yes
+SYN0086,Women,Operations,4,Yes
+SYN0087,Women,HR,3,No
+SYN0088,Men,Marketing,4,No
+SYN0089,Women,Analytics,10,Yes
+SYN0090,Men,Analytics,0,Yes
+SYN0091,Women,HR,2,No
+SYN0092,Non-binary / Prefer not to say,Marketing,8,Yes
+SYN0093,Women,Operations,8,Yes
+SYN0094,Men,Operations,6,Yes
+SYN0095,Men,HR,12,No
+SYN0096,Women,HR,3,No
+SYN0097,Non-binary / Prefer not to say,Analytics,5,No
+SYN0098,Men,Operations,3,No
+SYN0099,Women,Marketing,0,Yes
+SYN0100,Men,Marketing,12,Yes
+SYN0101,Non-binary / Prefer not to say,Operations,4,Yes
+SYN0102,Non-binary / Prefer not to say,Analytics,6,No
+SYN0103,Men,Operations,3,No
+SYN0104,Men,HR,4,No
+SYN0105,Women,Operations,0,No
+SYN0106,Men,HR,4,No
+SYN0107,Men,HR,10,Yes
+SYN0108,Non-binary / Prefer not to say,HR,0,Yes
+SYN0109,Men,Operations,9,No
+SYN0110,Men,Analytics,1,No
+SYN0111,Men,HR,6,Yes
+SYN0112,Non-binary / Prefer not to say,Analytics,6,No
+SYN0113,Women,HR,0,No
+SYN0114,Women,Operations,5,No
+SYN0115,Non-binary / Prefer not to say,HR,9,Yes
+SYN0116,Women,HR,8,Yes
+SYN0117,Men,HR,6,No
+SYN0118,Non-binary / Prefer not to say,Operations,3,No
+SYN0119,Men,Operations,9,Yes
+SYN0120,Men,Analytics,4,Yes
+SYN0121,Men,HR,7,Yes
+SYN0122,Non-binary / Prefer not to say,Operations,8,Yes
+SYN0123,Non-binary / Prefer not to say,Operations,10,Yes
+SYN0124,Non-binary / Prefer not to say,HR,1,No
+SYN0125,Women,HR,3,No
+SYN0126,Women,Analytics,0,Yes
+SYN0127,Men,Analytics,7,Yes
+SYN0128,Non-binary / Prefer not to say,Operations,11,No
+SYN0129,Men,Marketing,3,Yes
+SYN0130,Non-binary / Prefer not to say,Analytics,12,No
+SYN0131,Women,Marketing,3,Yes
+SYN0132,Non-binary / Prefer not to say,Marketing,0,No
+SYN0133,Women,Marketing,2,No
+SYN0134,Non-binary / Prefer not to say,HR,12,No
+SYN0135,Non-binary / Prefer not to say,Marketing,8,Yes
+SYN0136,Women,Marketing,7,Yes
+SYN0137,Women,HR,12,No
+SYN0138,Men,Operations,4,Yes
+SYN0139,Non-binary / Prefer not to say,HR,3,Yes
+SYN0140,Men,Analytics,2,Yes
+SYN0141,Men,Operations,11,Yes
+SYN0142,Men,Marketing,5,Yes
+SYN0143,Men,Analytics,3,No
+SYN0144,Men,Analytics,12,Yes
+SYN0145,Men,Analytics,5,Yes
+SYN0146,Men,Marketing,8,No
+SYN0147,Non-binary / Prefer not to say,Operations,7,Yes
+SYN0148,Men,Marketing,0,Yes
+SYN0149,Non-binary / Prefer not to say,Marketing,11,Yes
+SYN0150,Men,Operations,9,Yes
+SYN0151,Men,Analytics,1,No
+SYN0152,Women,Marketing,2,Yes
+SYN0153,Men,HR,3,Yes
+SYN0154,Men,Marketing,4,No
+SYN0155,Men,HR,1,Yes
+SYN0156,Non-binary / Prefer not to say,Analytics,5,Yes
+SYN0157,Women,Analytics,12,Yes
+SYN0158,Women,Operations,0,No
+SYN0159,Women,Operations,7,No
+SYN0160,Non-binary / Prefer not to say,Operations,7,No
+SYN0161,Men,Operations,9,Yes
+SYN0162,Non-binary / Prefer not to say,Analytics,12,No
+SYN0163,Men,Analytics,9,Yes
+SYN0164,Men,Marketing,6,No
+SYN0165,Women,Analytics,9,No
+SYN0166,Non-binary / Prefer not to say,Operations,1,No
+SYN0167,Men,Analytics,12,No
+SYN0168,Women,HR,8,Yes
+SYN0169,Men,Analytics,8,Yes
+SYN0170,Women,Marketing,7,Yes
+SYN0171,Men,Marketing,11,Yes
+SYN0172,Women,HR,9,No
+SYN0173,Non-binary / Prefer not to say,Marketing,7,Yes
+SYN0174,Non-binary / Prefer not to say,HR,5,No
+SYN0175,Women,HR,7,Yes
+SYN0176,Men,Marketing,5,Yes
+SYN0177,Men,Operations,7,Yes
+SYN0178,Men,HR,4,No
+SYN0179,Non-binary / Prefer not to say,HR,8,Yes
+SYN0180,Women,Analytics,3,No
+SYN0181,Men,Operations,11,Yes
+SYN0182,Non-binary / Prefer not to say,Marketing,7,No
+SYN0183,Women,HR,3,No
+SYN0184,Women,HR,10,No
+SYN0185,Men,HR,6,No
+SYN0186,Non-binary / Prefer not to say,HR,5,No
+SYN0187,Men,HR,4,Yes
+SYN0188,Non-binary / Prefer not to say,Operations,5,Yes
+SYN0189,Non-binary / Prefer not to say,Operations,3,Yes
+SYN0190,Men,HR,11,Yes
+SYN0191,Non-binary / Prefer not to say,HR,1,No
+SYN0192,Men,Operations,5,Yes
+SYN0193,Women,Operations,4,Yes
+SYN0194,Women,HR,11,No
+SYN0195,Non-binary / Prefer not to say,Marketing,1,No
+SYN0196,Non-binary / Prefer not to say,HR,7,No
+SYN0197,Men,Operations,0,Yes
+SYN0198,Men,Analytics,1,Yes
+SYN0199,Women,Analytics,2,Yes
+SYN0200,Non-binary / Prefer not to say,HR,1,No
+SYN0201,Women,Marketing,9,No
+SYN0202,Non-binary / Prefer not to say,Operations,12,Yes
+SYN0203,Men,Marketing,4,No
+SYN0204,Men,HR,9,Yes
+SYN0205,Non-binary / Prefer not to say,Analytics,12,Yes
+SYN0206,Women,HR,10,Yes
+SYN0207,Women,Operations,8,Yes
+SYN0208,Women,Marketing,7,No
+SYN0209,Men,HR,0,Yes
+SYN0210,Non-binary / Prefer not to say,HR,11,No
+SYN0211,Women,Operations,4,No
+SYN0212,Non-binary / Prefer not to say,Operations,6,Yes
+SYN0213,Women,Operations,4,No
+SYN0214,Women,Analytics,2,No
+SYN0215,Non-binary / Prefer not to say,HR,7,Yes
+SYN0216,Non-binary / Prefer not to say,HR,11,Yes
+SYN0217,Men,Marketing,7,Yes
+SYN0218,Women,Marketing,11,Yes
+SYN0219,Men,Analytics,1,Yes
+SYN0220,Non-binary / Prefer not to say,Analytics,12,No
+SYN0221,Men,Analytics,12,Yes
+SYN0222,Men,Marketing,4,Yes
+SYN0223,Non-binary / Prefer not to say,Marketing,10,No
+SYN0224,Women,Marketing,5,Yes
+SYN0225,Men,Analytics,2,Yes
+SYN0226,Non-binary / Prefer not to say,Marketing,4,No
+SYN0227,Men,Analytics,7,Yes
+SYN0228,Men,HR,1,No
+SYN0229,Men,Analytics,10,No
+SYN0230,Men,Marketing,0,Yes
+SYN0231,Men,Marketing,10,Yes
+SYN0232,Women,Operations,4,No
+SYN0233,Men,Marketing,11,Yes
+SYN0234,Women,Operations,11,Yes
+SYN0235,Non-binary / Prefer not to say,Analytics,8,Yes
+SYN0236,Women,Analytics,7,No
+SYN0237,Non-binary / Prefer not to say,Operations,7,No
+SYN0238,Men,HR,6,No
+SYN0239,Men,Operations,7,Yes
+SYN0240,Men,Operations,9,Yes
+SYN0241,Women,Analytics,4,No
+SYN0242,Men,HR,12,Yes
+SYN0243,Women,HR,11,Yes
+SYN0244,Non-binary / Prefer not to say,Marketing,2,No
+SYN0245,Men,HR,5,Yes
+SYN0246,Non-binary / Prefer not to say,Marketing,7,No
+SYN0247,Women,Operations,9,Yes
+SYN0248,Men,Analytics,5,No
+SYN0249,Non-binary / Prefer not to say,Marketing,6,No
+SYN0250,Non-binary / Prefer not to say,Operations,7,No
+SYN0251,Women,HR,1,No
+SYN0252,Men,Analytics,8,No
+SYN0253,Women,Operations,6,No
+SYN0254,Women,Analytics,7,No
+SYN0255,Men,HR,9,Yes
+SYN0256,Non-binary / Prefer not to say,Analytics,5,No
+SYN0257,Non-binary / Prefer not to say,Marketing,5,No
+SYN0258,Men,Analytics,9,Yes
+SYN0259,Non-binary / Prefer not to say,HR,3,No
+SYN0260,Men,Analytics,12,Yes
+SYN0261,Women,Marketing,2,No
+SYN0262,Women,Analytics,5,No
+SYN0263,Men,HR,5,Yes
+SYN0264,Women,Marketing,9,No
+SYN0265,Women,Operations,2,Yes
+SYN0266,Men,Operations,7,No
+SYN0267,Women,Operations,7,No
+SYN0268,Men,HR,10,Yes
+SYN0269,Men,HR,10,Yes
+SYN0270,Women,Marketing,5,No
+SYN0271,Men,Marketing,11,Yes
+SYN0272,Men,Operations,6,No
+SYN0273,Women,Operations,6,No
+SYN0274,Non-binary / Prefer not to say,HR,11,Yes
+SYN0275,Non-binary / Prefer not to say,Marketing,4,Yes
+SYN0276,Non-binary / Prefer not to say,Analytics,9,No
+SYN0277,Men,Operations,9,No
+SYN0278,Women,Operations,9,Yes
+SYN0279,Non-binary / Prefer not to say,Operations,10,Yes
+SYN0280,Non-binary / Prefer not to say,Analytics,4,No
+SYN0281,Women,HR,11,Yes
+SYN0282,Men,HR,11,Yes
+SYN0283,Women,Operations,12,Yes
+SYN0284,Men,HR,2,Yes
+SYN0285,Men,HR,11,No
+SYN0286,Women,Marketing,1,Yes
+SYN0287,Women,Marketing,12,Yes
+SYN0288,Women,Marketing,0,Yes
+SYN0289,Women,Marketing,5,No
+SYN0290,Non-binary / Prefer not to say,HR,9,Yes
+SYN0291,Non-binary / Prefer not to say,HR,1,No
+SYN0292,Men,Analytics,9,No
+SYN0293,Non-binary / Prefer not to say,HR,9,Yes
+SYN0294,Women,Marketing,11,Yes
+SYN0295,Men,Analytics,2,Yes
+SYN0296,Women,HR,7,Yes
+SYN0297,Women,Operations,6,Yes
+SYN0298,Non-binary / Prefer not to say,Marketing,9,No
+SYN0299,Women,Marketing,10,Yes
+SYN0300,Men,Marketing,4,Yes
