@@ -31,5 +31,4 @@ This app measures descriptive group-level differences. It cannot establish why d
 ## Data
 `sample_hiring_data.csv` is synthetic and generated for demonstration. It does not contain real applicant records.
 
-## Suggested portfolio description
-Built FairAI, a Responsible AI fairness analytics dashboard using Python, Pandas, Streamlit, and Plotly to examine group-level hiring outcome disparities, visualize selection rates, and generate evidence-based review recommendations with explicit limitations.
+
